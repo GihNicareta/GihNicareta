@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1> Oiii, meu nome é Giovana</h1>
 
-<!--
-**GihNicareta/GihNicareta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Formação 🎓
 
-Here are some ideas to get you started:
+ - 📖 Estudando atualmente o segundo ano do ensino médio.
+ - 💻Cursando o curso de Desenvolvimento de Sistemas.
+ - 🐋Quero fazer faculdade de biologia e me tornar uma biologa marinha.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  ⚙️ Habilidades ⚙️
+
+-[![Python](https://img.shields.io/badge/Python-4564b6?style=plastic)](#)
+-[![Habilidade técnica](https://img.shields.io/badge/Habilidadetécnica-276dc2?style=plastic)](#)
+-[![Softskills:liderança,resiliência,trabalhoemequipe...](https://img.shields.io/badge/Softskills:liderança,resiliência,trabalhoemequipe...-333?style=plastic)](#)
